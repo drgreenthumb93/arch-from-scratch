@@ -310,6 +310,8 @@ add `encrypt` and `lvm2` into the hooks
 HOOKS=(... block encrypt lvm2 filesystems fsck)
 ```
 
+Dort bei "HOOKS=()" rechts neben autodetect "keyboard keymap" und nach rechts nach block "encrypt" eintippen 
+
 install lvm2
 
 ```
